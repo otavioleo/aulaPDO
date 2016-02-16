@@ -15,8 +15,8 @@ CREATE TABLE pdo.alunos (
 ENGINE = INNODB
 AUTO_INCREMENT = 25
 AVG_ROW_LENGTH = 682
-CHARACTER SET latin1
-COLLATE latin1_swedish_ci;
+CHARACTER SET utf8
+COLLATE utf8_general_ci;
 
 SET NAMES 'utf8';
 
